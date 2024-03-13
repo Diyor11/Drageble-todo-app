@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+.column h2 {
+  margin-top: 0;
+}
+
+.card {
+  padding: 10px;
+  background-color: #fff;
+  margin-bottom: 10px;
+  cursor: grab;
+}
+
+.form-container {
+  margin-top: 20px;
+}
